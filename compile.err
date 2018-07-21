@@ -1,2 +1,1 @@
-
-gravity.c(12) parse error: token -> 'typedef' ; column 15
+gravity.c(47):warning *** conditional flow changed by optimizer 'gravity.c(45)':so said EVELYN the modified DOG
